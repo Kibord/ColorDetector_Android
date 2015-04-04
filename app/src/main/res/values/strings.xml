@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ColorDetector</string>
+
+    <string name="get_color_button">Get color</string>
+
+    <string name="camera_item">Photo from camera</string>
+    <string name="gallery_item">File from gallery</string>
+    <string name="about_item">About</string>
+</resources>
